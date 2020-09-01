@@ -1,0 +1,75 @@
+{
+    "Movie Title": "Kireedam ",
+    "Director": [
+        "Sibi Malayil"
+    ],
+    "Country": "India",
+    "Language": [
+        "Malayalam"
+    ],
+    "Poster_image_url": "https://m.media-amazon.com/images/M/MV5BNmViNWRlMzUtMTljMi00MDg5LTllNWYtMTIxNjljZjhmODQwXkEyXkFqcGdeQXVyNTI0NzYwMTI@._V1_UY268_CR6,0,182,268_AL__QL50.jpg",
+    "Bio": "The life of a young man turns upside down when he intervenes in a dispute in order to rescue his father (a cop) from a ruthless local outlaw.",
+    "RunTime": "124min",
+    "Genres": [
+        " Action",
+        " Drama"
+    ],
+    "Cast": [
+        {
+            "Name": "Mohanlal",
+            "IMDB_ids": "nm0482320"
+        },
+        {
+            "Name": "Thilakan",
+            "IMDB_ids": "nm0858128"
+        },
+        {
+            "Name": "Kaviyoor Ponnamma",
+            "IMDB_ids": "nm0690450"
+        },
+        {
+            "Name": "Parvathi",
+            "IMDB_ids": "nm0664104"
+        },
+        {
+            "Name": "Sankaradi",
+            "IMDB_ids": "nm0762844"
+        },
+        {
+            "Name": "Murali",
+            "IMDB_ids": "nm0613512"
+        },
+        {
+            "Name": "Jagathi Sreekumar",
+            "IMDB_ids": "nm0415549"
+        },
+        {
+            "Name": "Maniyanpilla Raju",
+            "IMDB_ids": "nm0683477"
+        },
+        {
+            "Name": "Keerikkadan Jose",
+            "IMDB_ids": "nm1559469"
+        },
+        {
+            "Name": "Mammukoya",
+            "IMDB_ids": "nm0541126"
+        },
+        {
+            "Name": "Jagadish",
+            "IMDB_ids": "nm0415538"
+        },
+        {
+            "Name": "Oduvil Unnikrishnan",
+            "IMDB_ids": "nm0881292"
+        },
+        {
+            "Name": "Usha",
+            "IMDB_ids": "nm1792682"
+        },
+        {
+            "Name": "Yadu Krishnan",
+            "IMDB_ids": "nm1431853"
+        }
+    ]
+}

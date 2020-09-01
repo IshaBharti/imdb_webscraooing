@@ -1,0 +1,81 @@
+{
+    "Movie Title": "Vikram Vedha ",
+    "Director": [
+        "Gayatri",
+        "Pushkar"
+    ],
+    "Country": "India",
+    "Language": [
+        "Tamil"
+    ],
+    "Poster_image_url": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Bio": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
+    "RunTime": "147min",
+    "Genres": [
+        " Action",
+        " Crime",
+        " Thriller"
+    ],
+    "Cast": [
+        {
+            "Name": "Madhavan",
+            "IMDB_ids": "nm0534856"
+        },
+        {
+            "Name": "Vijay Sethupathi",
+            "IMDB_ids": "nm4043111"
+        },
+        {
+            "Name": "Shraddha Srinath",
+            "IMDB_ids": "nm7744845"
+        },
+        {
+            "Name": "Kathir",
+            "IMDB_ids": "nm6453091"
+        },
+        {
+            "Name": "Varalaxmi Sarathkumar",
+            "IMDB_ids": "nm4174212"
+        },
+        {
+            "Name": "Prem Kumar",
+            "IMDB_ids": "nm3607395"
+        },
+        {
+            "Name": "Hareesh Peradi",
+            "IMDB_ids": "nm5782889"
+        },
+        {
+            "Name": "Achyuth Kumar",
+            "IMDB_ids": "nm5724719"
+        },
+        {
+            "Name": "Vivek Prasanna",
+            "IMDB_ids": "nm8995905"
+        },
+        {
+            "Name": "R. Amarendran",
+            "IMDB_ids": "nm8522195"
+        },
+        {
+            "Name": "Kevin Augustine",
+            "IMDB_ids": "nm3051595"
+        },
+        {
+            "Name": "E. Karthik",
+            "IMDB_ids": "nm5157122"
+        },
+        {
+            "Name": "Gowri Lakshmi",
+            "IMDB_ids": "nm6046289"
+        },
+        {
+            "Name": "Manikandan",
+            "IMDB_ids": "nm8904193"
+        },
+        {
+            "Name": "Rajkumar",
+            "IMDB_ids": "nm5408510"
+        }
+    ]
+}

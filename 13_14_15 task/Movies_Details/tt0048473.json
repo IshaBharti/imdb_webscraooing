@@ -1,0 +1,78 @@
+{
+    "Movie Title": "Pather Panchali ",
+    "Director": [
+        "Satyajit Ray"
+    ],
+    "Country": "India",
+    "Language": [
+        "Bengali"
+    ],
+    "Poster_image_url": "https://m.media-amazon.com/images/M/MV5BNDE5YmMxYjEtZjNjNC00NjM2LWE2ZjctOTkyNGMxODRiMGNiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+    "Bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "RunTime": "125min",
+    "Genres": [
+        " Drama"
+    ],
+    "Cast": [
+        {
+            "Name": "Kanu Bannerjee",
+            "IMDB_ids": "nm0052333"
+        },
+        {
+            "Name": "Karuna Bannerjee",
+            "IMDB_ids": "nm0052334"
+        },
+        {
+            "Name": "Chunibala Devi",
+            "IMDB_ids": "nm0222447"
+        },
+        {
+            "Name": "Uma Das Gupta",
+            "IMDB_ids": "nm0201871"
+        },
+        {
+            "Name": "Subir Banerjee",
+            "IMDB_ids": "nm0052343"
+        },
+        {
+            "Name": "Runki Banerjee",
+            "IMDB_ids": "nm0051846"
+        },
+        {
+            "Name": "Reba Devi",
+            "IMDB_ids": "nm0222480"
+        },
+        {
+            "Name": "Aparna Devi",
+            "IMDB_ids": "nm0222436"
+        },
+        {
+            "Name": "Tulsi Chakraborty",
+            "IMDB_ids": "nm0149831"
+        },
+        {
+            "Name": "Haren Banerjee",
+            "IMDB_ids": "nm0051836"
+        },
+        {
+            "Name": "Rampada Das",
+            "IMDB_ids": "nm5580026"
+        },
+        {
+            "Name": "Nibhanani Devi",
+            "IMDB_ids": "nm0222467"
+        },
+        {
+            "Name": "Rama Gangopadhaya",
+            "IMDB_ids": "nm0304346"
+        },
+        {
+            "Name": "Roma Ganguli",
+            "IMDB_ids": "nm0304351"
+        },
+        {
+            "Name": "Binoy Mukherjee",
+            "IMDB_ids": "nm0611518"
+        }
+    ]
+}

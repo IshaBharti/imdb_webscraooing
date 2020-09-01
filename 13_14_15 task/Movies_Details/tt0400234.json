@@ -1,0 +1,81 @@
+{
+    "Movie Title": "Black Friday ",
+    "Director": [
+        "Anurag Kashyap"
+    ],
+    "Country": "India",
+    "Language": [
+        "Hindi"
+    ],
+    "Poster_image_url": "https://m.media-amazon.com/images/M/MV5BYWRjMDlmNGYtOGFhYy00ZWU4LTk3MzEtOTI4ZTgxN2Y5NGNkXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Bio": "A film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.",
+    "RunTime": "143min",
+    "Genres": [
+        " Action",
+        " Crime",
+        " Drama",
+        " History"
+    ],
+    "Cast": [
+        {
+            "Name": "Kay Kay Menon",
+            "IMDB_ids": "nm1946407"
+        },
+        {
+            "Name": "Pavan Malhotra",
+            "IMDB_ids": "nm0539497"
+        },
+        {
+            "Name": "Aditya Srivastav",
+            "IMDB_ids": "nm0820282"
+        },
+        {
+            "Name": "Dibyendu Bhattacharya",
+            "IMDB_ids": "nm0080349"
+        },
+        {
+            "Name": "Kishore Kadam",
+            "IMDB_ids": "nm0434263"
+        },
+        {
+            "Name": "Gajraj Rao",
+            "IMDB_ids": "nm0710549"
+        },
+        {
+            "Name": "Zakir Hussain",
+            "IMDB_ids": "nm1664541"
+        },
+        {
+            "Name": "Somesh Agarwal",
+            "IMDB_ids": "nm1326262"
+        },
+        {
+            "Name": "Akhilesh Tripathi",
+            "IMDB_ids": "nm6271541"
+        },
+        {
+            "Name": "Imtiaz Ali",
+            "IMDB_ids": "nm1665004"
+        },
+        {
+            "Name": "Raj Arjun",
+            "IMDB_ids": "nm2366974"
+        },
+        {
+            "Name": "Ragesh Asthana",
+            "IMDB_ids": "nm1616361"
+        },
+        {
+            "Name": "Sushovan Banerjee",
+            "IMDB_ids": "nm1309355"
+        },
+        {
+            "Name": "Asif Basra",
+            "IMDB_ids": "nm1794460"
+        },
+        {
+            "Name": "Aditya Bhattacharya",
+            "IMDB_ids": "nm1023986"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Movie Title": "Nayakan ",
+    "Director": [
+        "Mani Ratnam"
+    ],
+    "Country": "India",
+    "Language": [
+        "Tamil"
+    ],
+    "Poster_image_url": "https://m.media-amazon.com/images/M/MV5BZmFiYjJkNTEtZDdlMi00YTA5LTk1YTYtMDgxM2M2MTRmNGFhXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+    "RunTime": "156min",
+    "Genres": [
+        " Crime",
+        " Drama"
+    ],
+    "Cast": [
+        {
+            "Name": "Kamal Haasan",
+            "IMDB_ids": "nm0352032"
+        },
+        {
+            "Name": "Saranya Ponvannan",
+            "IMDB_ids": "nm0764853"
+        },
+        {
+            "Name": "Delhi Ganesh",
+            "IMDB_ids": "nm0304265"
+        },
+        {
+            "Name": "Janakaraj",
+            "IMDB_ids": "nm0417301"
+        },
+        {
+            "Name": "Karthika",
+            "IMDB_ids": "nm0440232"
+        },
+        {
+            "Name": "Nassar",
+            "IMDB_ids": "nm0621937"
+        },
+        {
+            "Name": "Tinnu Anand",
+            "IMDB_ids": "nm0025627"
+        },
+        {
+            "Name": "Nizhalgal Ravi",
+            "IMDB_ids": "nm0712437"
+        },
+        {
+            "Name": "M.V. Vasudeva Rao",
+            "IMDB_ids": "nm1115041"
+        }
+    ]
+}
